@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c51e118e-b1bf-4668-80c0-42a1c55a0621" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2-gridpulse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-gridpulse/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-gridpulse/ferdigEksempel/gridpulse.less" beforeDir="false" afterPath="$PROJECT_DIR$/2-gridpulse/ferdigEksempel/gridpulse.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-gridpulse/gridpulse.less" beforeDir="false" afterPath="$PROJECT_DIR$/2-gridpulse/gridpulse.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +42,8 @@
             <entry file="file://$PROJECT_DIR$/2-gridpulse/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="120">
-                    <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+                  <first_editor relative-caret-position="103">
+                    <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -116,7 +112,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="858" />
+    <option name="width" value="1085" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -298,12 +294,12 @@
       <workItem from="1553756179316" duration="699000" />
       <workItem from="1553773918903" duration="3189000" />
       <workItem from="1554312652867" duration="2333000" />
-      <workItem from="1554317543112" duration="6718000" />
+      <workItem from="1554317543112" duration="7224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31939000" />
+    <option name="totallyTimeSpent" value="32445000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +311,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="858" height="977" extended-state="0" />
+    <frame x="0" y="23" width="1085" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -331,7 +327,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.070454545" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23039216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18024927" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -695,8 +691,8 @@
     <entry file="file://$PROJECT_DIR$/2-gridpulse/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <first_editor relative-caret-position="103">
+            <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
