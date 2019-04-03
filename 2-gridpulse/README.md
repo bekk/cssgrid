@@ -2,7 +2,7 @@
 
 Bruk en kombinasjon av css grid og flexbox for å lage noe liknende som denne!
 
-![](gridpulse.gif | width=10)
+![](gridpulse.gif) {:height="50%" width="50%"}
 
 1. Style boksene (div'ene): sett på bakgrunnsfarge, border, padding, hva annet du måtte ønske.
 2. Bruk flexbox for å sentrere boksene.
