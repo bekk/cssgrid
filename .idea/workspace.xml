@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c51e118e-b1bf-4668-80c0-42a1c55a0621" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/2-gridpulse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-gridpulse/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-gridpulse/ferdigEksempel/gridpulse.less" beforeDir="false" afterPath="$PROJECT_DIR$/2-gridpulse/ferdigEksempel/gridpulse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-gridpulse/gridpulse.less" beforeDir="false" afterPath="$PROJECT_DIR$/2-gridpulse/gridpulse.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +18,20 @@
     <splitter split-orientation="vertical" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="gridpulse.less" pinned="false" current-in-tab="false">
+          <file leaf-file-name="gridpulse.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/2-gridpulse/gridpulse.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+                <state relative-caret-position="195">
+                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="gridpulse.less" pinned="false" current-in-tab="true">
+          <file leaf-file-name="gridpulse.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/2-gridpulse/ferdigEksempel/gridpulse.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="261">
-                  <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+                <state relative-caret-position="-284">
+                  <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -42,8 +44,8 @@
             <entry file="file://$PROJECT_DIR$/2-gridpulse/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="105">
-                    <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+                  <first_editor relative-caret-position="60">
+                    <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -93,9 +95,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/1-kittygrid/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/2-gridpulse/gridpulse.less" />
         <option value="$PROJECT_DIR$/2-gridpulse/ferdigEksempel/gridpulse.less" />
         <option value="$PROJECT_DIR$/2-gridpulse/README.md" />
+        <option value="$PROJECT_DIR$/2-gridpulse/gridpulse.less" />
       </list>
     </option>
   </component>
@@ -294,12 +296,12 @@
       <workItem from="1553756179316" duration="699000" />
       <workItem from="1553773918903" duration="3189000" />
       <workItem from="1554312652867" duration="2333000" />
-      <workItem from="1554317543112" duration="7332000" />
+      <workItem from="1554317543112" duration="8376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32553000" />
+    <option name="totallyTimeSpent" value="33597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,27 +676,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-gridpulse/gridpulse.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+    <entry file="file://$PROJECT_DIR$/2-gridpulse/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2-gridpulse/ferdigEksempel/gridpulse.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        <state relative-caret-position="-284">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-gridpulse/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/2-gridpulse/gridpulse.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
