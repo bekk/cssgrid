@@ -1,10 +1,10 @@
 # CSS Grid 
 
-Denne workshopen gir deg et eksempel på hvordan css grid kan brukes til å lage et kult layout inspirert av Andy Barefoot sin [CSS Grid Responsive Perspective Layout](https://codepen.io/andybarefoot/pen/GMyREX?editors=0100).
- 
-Html - og - js - filene er ferdig skrevet, så det eneste du trenger å skrive css-kode.
+Denne workshopen er delt i to: KittyGrid og GridPulse. KittyGrid har fokus på hovedsaklig css grid, mens GridPulse er en kombinasjon av både css grid og flexbox. Hvis du har vært borti css grid før, så må du gjerne prøve ut GridPulse først.
 
 Hver oppgavemappe inneholder alle filene som trengs for oppgaven. Det ligger også en readme-fil i hver mappe med instruksjoner. 
+
+Start opp ved å høyreklikke på html-filen, og velg "Open in Browser". 
 
 **Nyttige lenker:**
 * Css selectors: https://www.quirksmode.org/css/selectors/ 
