@@ -7,15 +7,17 @@ body {
 
 .grid {
 
-  div {
+}
 
-    &:nth-child(odd) {
+.grid div {
 
-    }
-    &:nth-child(even) {
+}
 
-    }
-  }
+.grid div:nth-child(odd) { 
+
+}
+.grid div:nth-child(even) { 
+
 }
 
 @keyframes pulse {
