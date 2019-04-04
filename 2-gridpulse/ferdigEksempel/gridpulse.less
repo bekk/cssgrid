@@ -1,36 +1,37 @@
 body {
-    background: linear-gradient(coral, rebeccapurple);
-    border: 10px solid white;
-    min-height: 100vh;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center;
+  background: linear-gradient(coral, rebeccapurple);
+  border: 10px solid white;
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .grid {
-    display: grid;
-    grid-template-columns: repeat(3, 100px);
-    grid-template-rows: repeat(3, 100px);
-    grid-gap: 10px;
-    max-width: 480px;
-    transform: rotate(45deg);
-    perspective: 600px;
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  grid-gap: 10px;
+  max-width: 480px;
+  transform: rotate(45deg);
+  perspective: 600px;
 
-    div {
-        background: rgba(white,.15);
-        border: 1px solid rgba(white,.25);
-        padding: 20px;
-        color: transparent;
-        box-shadow: 30px 30px 30px -20px rgba(black,.6);
-        border-radius: 2px;
+  div {
+    background: rgba(white,.15);
+    border: 1px solid rgba(white,.25);
+    padding: 20px;
+    color: transparent;
+    box-shadow: 30px 30px 30px -20px rgba(black,.6);
+    border-radius: 2px;
 
-        &:nth-child(odd) {
-            animation: 1000ms ease-in-out infinite alternate pulse;
-        }
-        &:nth-child(even) {
-            animation:  1000ms 1000ms ease-in-out infinite alternate pulse;
-        }
+    &:nth-child(odd) {
+        animation: 1000ms ease-in-out infinite alternate pulse;
     }
+    &:nth-child(even) {
+        animation:  1000ms 1000ms ease-in-out infinite alternate pulse;
+    }
+  }
 }
 
 @keyframes pulse {
