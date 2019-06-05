@@ -3,23 +3,38 @@ body {
   border: 10px solid white;
   min-height: 100vh;
   box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .grid {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  grid-grap: 20px;
+  transform: rotate(45deg);
+  perspective: 600px;
 
   div {
+    background: rgba(white,.15);
+    padding: 20px;
+    color: transparent;
+    border-radius: 2px;
+    border: 1px solid rgba(white,.25);
 
     &:nth-child(odd) {
+      animation: alternate infinite pulse 1000ms ease-in-out;
 
     }
     &:nth-child(even) {
-
+      animation: alternate infinite pulse 1000ms ease-in-out 1000ms;
     }
   }
 }
 
 @keyframes pulse {
-  to {
-
+  from {
+    transform: translate3d(0px, 0px, -60px);
   }
 }

@@ -16,6 +16,7 @@ body {
   max-width: 480px;
   transform: rotate(45deg);
   perspective: 600px;
+  animation:  5000ms 1000ms ease-in-out spin infinite;
 
   div {
     background: rgba(white,.15);
@@ -29,7 +30,7 @@ body {
         animation: 1000ms ease-in-out infinite alternate pulse;
     }
     &:nth-child(even) {
-        animation:  1000ms 1000ms ease-in-out infinite alternate pulse;
+        animation:  1000ms 1000ms ease-in-out infinite pulse alternate;
     }
   }
 }
@@ -39,4 +40,15 @@ body {
         transform: translate3d(0px, 0px, -60px);
         box-shadow: 15px 15px 20px -20px rgba(black,.8)
     }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+
+  }
 }
