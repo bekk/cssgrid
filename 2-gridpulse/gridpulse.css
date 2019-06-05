@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(coral, rebeccapurple);
+  border: 10px solid white;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.grid {
+
+}
+
+.grid div {
+
+}
+
+.grid div:nth-child(odd) { 
+
+}
+.grid div:nth-child(even) { 
+
+}
+
+@keyframes pulse {
+  to {
+
+  }
+}
